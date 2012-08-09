@@ -11,10 +11,10 @@ This app also incorporates google oauth to only allow access to members of your 
 Company members call the conference line or call in via the web browser. 
 
 ![Example of it
-working](https://raw.github.com/mauerbac/Conference-Call-Client/master/images/usage.png)
+working](https://raw.github.com/mauerbac/Conference-Call-Client/master/images/img1.png)
 
 ![Example of it
-working](https://raw.github.com/mauerbac/Conference-Call-Client/master/images/usage.png)
+working](https://raw.github.com/mauerbac/Conference-Call-Client/master/images/img2.png)
 
 
 ## Installation
