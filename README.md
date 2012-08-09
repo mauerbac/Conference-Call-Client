@@ -31,14 +31,16 @@ Step-by-step on how to deploy, configure and develop this app.
 
 ##Configuration 
 
-1)
+1) Include Twilio [PHP Helper Library](https://github.com/twilio/twilio-php)
 
-2) Edit conf.xml. Put your conference name in between the <Conference> tags
+2) Include Google Oauth [API Client PHP](http://code.google.com/p/google-api-php-client/downloads/detail?name=google-api-php-client-0.5.0.tar.gz&can=2&q=)
 
-3) Edit constants.php. Add all Credentials
+3) Edit conf.xml. Put your conference name in between the <Conference> tags
 
-4) Edit conference.php. In the if-else block add respective emails with client names
+4) Edit constants.php. Add all Credentials
+
+5) Edit conference.php. In the if-else block add respective emails with client names
         
-5)Edit pullinfo.php. In the if-else block add respective phone numbers with client names 
+6)Edit pullinfo.php. In the if-else block add respective phone numbers with client names 
 
 
