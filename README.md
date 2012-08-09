@@ -6,7 +6,7 @@ members are connected to the same conference call. This app will also list all a
 participants in the conference as well as differentiating between a browser call or an actual phone. 
 This app also incorporates google oauth to only allow access to members of your company.  
 
-## Usage
+## Usage 
 
 Company members call the conference line or call in via the web browser. 
 
