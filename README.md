@@ -29,7 +29,7 @@ Step-by-step on how to deploy, configure and develop this app.
 
 3) Add a phone number to your Twilio account. (This will be your conference number). In the Voice Request URl put the location of conf.xml
 
-##Configuration 
+###Configuration 
 
 1) Include Twilio [PHP Helper Library](https://github.com/twilio/twilio-php)
 
